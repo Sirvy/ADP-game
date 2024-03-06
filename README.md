@@ -1,6 +1,6 @@
 # ADP-game
 
-Simple Java game project for demonstrating various design patterns made as semestral project for Architectural and Design Patterns course.
+Simple Java game project for various design pattern demonstration made as semestral project for Architectural and Design Patterns course.
 
 ![alt text](public/images/image.png)
 
